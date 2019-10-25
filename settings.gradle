@@ -1,0 +1,3 @@
+rootProject.name='LameUtil'
+include ':app'
+include ':lib-mp3lame'
